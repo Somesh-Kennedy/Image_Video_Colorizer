@@ -50,5 +50,5 @@ Feel free to fork this repository, create a branch, and submit a pull request wi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
 
