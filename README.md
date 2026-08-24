@@ -26,7 +26,7 @@ This project uses deep learning models to colorize grayscale images and videos a
 
 ## Usage
 
-### For Image Colorization:
+### For Image Colorization--
 
 ```bash
 python colorize_image.py --input path_to_grayscale_image --output path_to_output_image
