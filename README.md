@@ -7,7 +7,7 @@ This project uses deep learning models to colorize grayscale images and videos a
 * Colorizes static grayscale images.
 * Colorizes grayscale video frames.
 * Real-time processing with high-quality output.
-* Implements state-of-the-art deep learning models for image and video colorization.
+* Implements state-of-the-art deep learning models for image and video colorization
 
 ## Installation
 
