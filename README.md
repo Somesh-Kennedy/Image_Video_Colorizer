@@ -1,6 +1,6 @@
 # Image and Video Colorizer
 
-This project uses deep learning models to colorize grayscale images and videos automatically. The system applies neural networks to generate realistic colorizations from black-and-white input data.
+This project uses deep learning models to colorize grayscale images and videos automatically. The system applies neural networks to generate realistic colorizations from black-and-white input data
 
 ## Features
 
